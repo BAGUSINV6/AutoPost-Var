@@ -99,6 +99,7 @@ var link360_25 = ["-", "-", "-"];
 var link480_25 = ["-", "-", "-"];
 var link720_25 = ["-", "-", "-"];
 
+
 var ep1 = "<div class='box-ep1'><button class='dunlutbtn'>Episode 1</button><button class='episodeke'>1</button></div><div class='box-ep1' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>1</button><div class='dunlutbox'><h4> Episode 1</h4> <li> <strong>360p </strong><a href='"+link360_1[0]+"'>"+nameh[0]+"</a><a href='"+link360_1[1]+"'>"+nameh[1]+"</a><a href='"+link360_1[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_1[0]+"'>"+nameh[0]+"</a><a href='"+link480_1[1]+"'>"+nameh[1]+"</a><a href='"+link480_1[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_1[0]+"'>"+nameh[0]+"</a><a href='"+link720_1[1]+"'>"+nameh[1]+"</a><a href='"+link720_1[2]+"'>"+nameh[2]+"</a></li></div></div><br/>";
 var ep2 = "<div class='box-ep2'><button class='dunlutbtn'>Episode 2</button><button class='episodeke'>2</button></div><div class='box-ep2' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>2</button><div class='dunlutbox'><h4> Episode 2</h4> <li> <strong>360p </strong><a href='"+link360_2[0]+"'>"+nameh[0]+"</a><a href='"+link360_2[1]+"'>"+nameh[1]+"</a><a href='"+link360_2[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_2[0]+"'>"+nameh[0]+"</a><a href='"+link480_2[1]+"'>"+nameh[1]+"</a><a href='"+link480_2[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_2[0]+"'>"+nameh[0]+"</a><a href='"+link720_2[1]+"'>"+nameh[1]+"</a><a href='"+link720_2[2]+"'>"+nameh[2]+"</a></li></div></div><br/>";
 var ep3 = "<div class='box-ep3'><button class='dunlutbtn'>Episode 3</button><button class='episodeke'>3</button></div><div class='box-ep3' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>3</button><div class='dunlutbox'><h4> Episode 3</h4> <li> <strong>360p </strong><a href='"+link360_3[0]+"'>"+nameh[0]+"</a><a href='"+link360_3[1]+"'>"+nameh[1]+"</a><a href='"+link360_3[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_3[0]+"'>"+nameh[0]+"</a><a href='"+link480_3[1]+"'>"+nameh[1]+"</a><a href='"+link480_3[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_3[0]+"'>"+nameh[0]+"</a><a href='"+link720_3[1]+"'>"+nameh[1]+"</a><a href='"+link720_3[2]+"'>"+nameh[2]+"</a></li></div></div><br/>";
@@ -124,3 +125,57 @@ var ep22 = "<div class='box-ep22'><button class='dunlutbtn'>Episode 22</button><
 var ep23 = "<div class='box-ep23'><button class='dunlutbtn'>Episode 23</button><button class='episodeke'>23</button></div><div class='box-ep23' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>23</button><div class='dunlutbox'><h4> Episode 23</h4> <li> <strong>360p </strong><a href='"+link360_23[0]+"'>"+nameh[0]+"</a><a href='"+link360_23[1]+"'>"+nameh[1]+"</a><a href='"+link360_23[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_23[0]+"'>"+nameh[0]+"</a><a href='"+link480_23[1]+"'>"+nameh[1]+"</a><a href='"+link480_23[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_23[0]+"'>"+nameh[0]+"</a><a href='"+link720_23[1]+"'>"+nameh[1]+"</a><a href='"+link720_23[2]+"'>"+nameh[2]+"</a></li></div></div><br>";
 var ep24 = "<div class='box-ep24'><button class='dunlutbtn'>Episode 24</button><button class='episodeke'>24</button></div><div class='box-ep24' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>24</button><div class='dunlutbox'><h4> Episode 24</h4> <li> <strong>360p </strong><a href='"+link360_24[0]+"'>"+nameh[0]+"</a><a href='"+link360_24[1]+"'>"+nameh[1]+"</a><a href='"+link360_24[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_24[0]+"'>"+nameh[0]+"</a><a href='"+link480_24[1]+"'>"+nameh[1]+"</a><a href='"+link480_24[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_24[0]+"'>"+nameh[0]+"</a><a href='"+link720_24[1]+"'>"+nameh[1]+"</a><a href='"+link720_24[2]+"'>"+nameh[2]+"</a></li></div></div><br>"; 
 var ep25 = "<div class='box-ep25'><button class='dunlutbtn'>Episode 25</button><button class='episodeke'>25</button></div><div class='box-ep25' style='display:none'><button class='dunlutbtn'>Sembunyikan</button><button class='episodeke'>25</button><div class='dunlutbox'><h4> Episode 25</h4> <li> <strong>360p </strong><a href='"+link360_25[0]+"'>"+nameh[0]+"</a><a href='"+link360_25[1]+"'>"+nameh[1]+"</a><a href='"+link360_25[2]+"'>"+nameh[2]+"</a></li> <li> <strong>480p </strong><a href='"+link480_25[0]+"'>"+nameh[0]+"</a><a href='"+link480_25[1]+"'>"+nameh[1]+"</a><a href='"+link480_25[2]+"'>"+nameh[2]+"</a></li> <li> <strong>720p </strong><a href='"+link720_25[0]+"'>"+nameh[0]+"</a><a href='"+link720_25[1]+"'>"+nameh[1]+"</a><a href='"+link720_25[2]+"'>"+nameh[2]+"</a></li></div></div><br>";
+
+
+
+if(jumlah_episode == 1){
+  document.getElementById('episode').innerHTML = ep1;
+  }else if(jumlah_episode == 2){
+  document.getElementById('episode').innerHTML = ep1 + ep2;
+  }else if(jumlah_episode == 3){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3;
+  }else if(jumlah_episode == 4){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4;
+  }else if(jumlah_episode == 5){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5;
+  }else if(jumlah_episode == 6){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6;
+  }else if(jumlah_episode == 7){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7;
+  }else if(jumlah_episode == 8){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8;
+  }else if(jumlah_episode == 9){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9;
+  }else if(jumlah_episode == 10){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10;
+  }else if(jumlah_episode == 11){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11;
+  }else if(jumlah_episode == 12){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12;
+  }else if(jumlah_episode == 13){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13;
+  }else if(jumlah_episode == 14){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14;
+  }else if(jumlah_episode == 15){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15;
+  }else if(jumlah_episode == 16){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16;
+  }else if(jumlah_episode == 17){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17;
+  }else if(jumlah_episode == 18){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18;
+  }else if(jumlah_episode == 19){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19;
+  }else if(jumlah_episode == 20){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20;
+  }else if(jumlah_episode == 21){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20 + ep21;
+  }else if(jumlah_episode == 22){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20 + ep21 + ep22;
+  }else if(jumlah_episode == 23){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20 + ep21 + ep22 + ep23;
+  }else if(jumlah_episode == 24){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20 + ep21 + ep22 + ep23 + ep24;
+  }else if(jumlah_episode == 25){
+  document.getElementById('episode').innerHTML = ep1 + ep2 + ep3 + ep4 + ep5 + ep6 + ep7 + ep8 + ep9 + ep10 + ep11 + ep12 + ep13 + ep14 + ep15 + ep16 + ep17 + ep18 + ep19 + ep20 + ep21 + ep22 + ep23 + ep24 + ep25;
+  };
